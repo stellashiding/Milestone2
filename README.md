@@ -12,9 +12,7 @@ Open your terminal, navigate to your project directory, and run the following co
 
 ```bash
 pip install Flask
-pip install tensorflow==2.5.0
-pip install pillow
-pip install numpy
+pip install flask-cors
 ```
 
 ### 3. Start the Flask Server
